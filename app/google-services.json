@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "492719111766",
+    "firebase_url": "https://notifi-ac2ca.firebaseio.com",
+    "project_id": "notifi-ac2ca",
+    "storage_bucket": "notifi-ac2ca.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:492719111766:android:bda186b3f9d22d77d845f7",
+        "android_client_info": {
+          "package_name": "com.adnet.notificationfirebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "492719111766-fuehk2ghfhars5gjm1006vhjvilvfai6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDWZ66XXxlXSoeRz9rTthArIYmf1Ipmcig"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "492719111766-fuehk2ghfhars5gjm1006vhjvilvfai6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
